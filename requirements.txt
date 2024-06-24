@@ -3,3 +3,6 @@ scikit-learn
 plotly
 matplotlib
 seaborn
+keras
+tensorflow
+setuptools
