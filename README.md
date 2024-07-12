@@ -1,6 +1,8 @@
 # Project Crypto Prediction Using XGBoost
 Predict coin prices in the future using XGBoost algrithsm. 
 
+### Link youtube: https://youtu.be/Tl2KNAh_lkQ
+
 # Requirements
 To run the code in this repository, you need the following dependencies:
 Python 3.x
