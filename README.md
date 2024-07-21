@@ -47,6 +47,6 @@ The model uses XGBoost, a powerful and scalable gradient boosting framework, to 
 4. Evaluation: Assessing the model's performance using appropriate metrics.
 
 # Results
-![prediction](./btc-prediction.png)
-![prediction](./eth-prediction.png)
-![prediction](./ada-prediction.png)
+![prediction](./assets/btc-prediction.png)
+![prediction](./assets/eth-prediction.png)
+![prediction](./assets/ada-prediction.png)

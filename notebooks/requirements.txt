@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+plotly
+matplotlib
+seaborn
+keras
+tensorflow
+setuptools
+xgboost
+torch 
+transformers
+dash
+dash-html-components
+dash-core-components
+ipywidgets
